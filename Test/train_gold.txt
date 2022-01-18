@@ -1,0 +1,21 @@
+em	N
+tập	V
+đánh	V
+đàn	N
+
+đàn	N
+chó	N
+chạy	V
+ngoài	E
+sân	N
+
+sân	N
+trường	N
+rợp	A
+bóng	N
+cây	N
+
+cây	N
+cao	A
+bóng	N
+cả	A
