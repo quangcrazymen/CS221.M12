@@ -1,0 +1,1066 @@
+Ngày càng	X
+có	V
+nhiều	A
+báo cáo	N
+hé	V
+lộ	N
+Taliban	Np
+đã	R
+có	V
+hành động	V
+trả thù	V
+nhanh chóng	A
+và	C
+tàn khốc	V
+đối với	E
+những	L
+người	Nc
+trong	E
+danh sách	N
+truy nã	N
+bị	V
+bắt	V
+.	CH
+
+Một	M
+cựu	A
+thông dịch	X
+viên	N
+cho	E
+Lực lượng	N
+đặc nhiệm	N
+Mỹ	Np
+ở	E
+Afghanistan	Np
+kể	V
+,	CH
+anh	Nc
+đã	R
+chứng kiến	V
+Taliban	Np
+bắn	V
+chết	V
+một	M
+người	N
+tình nghi	V
+từng	R
+cộng tác	N
+với	E
+quân đội	N
+nước ngoài	N
+.	CH
+
+Nhiều	A
+thi thể	N
+là	V
+binh sĩ	N
+và	C
+quan chức	N
+trong	E
+chính quyền	N
+cũ	A
+bị	V
+Taliban	Np
+xử tử	V
+.	CH
+
+Trong	E
+lúc	N
+đám	Nc
+đông	A
+người	N
+Afghanistan	Np
+tuyệt vọng	V
+chờ	V
+cơ hội	N
+được	V
+đi	V
+sơ tán	V
+bên	N
+ngoài	N
+sân bay	N
+Kabul	Np
+,	CH
+bức	Nc
+ảnh	N
+do	E
+một	M
+người	N
+di tản	V
+chụp	V
+máy bay	N
+vận tải	V
+gần	A
+như	C
+trống không	V
+khiến	V
+cộng đồng	N
+mạng	V
+dậy	V
+sóng	N
+.	CH
+
+Sau	N
+mỗi	L
+lần	N
+làm	V
+bánh mì	N
+,	CH
+chị	Nc
+thường	R
+để	E
+trong	E
+túi	N
+giấy	N
+và	C
+dùng	V
+được	V
+khoảng	N
+4	M
+-	CH
+5	M
+bữa	N
+.	CH
+
+Bánh	N
+ăn	V
+thay	V
+cơm	N
+trong	E
+mùa	N
+dịch	N
+,	CH
+vừa	R
+đổi	V
+món	N
+dễ	A
+ăn	V
+cho	E
+cả	P
+gia đình	N
+.	CH
+
+Năm	N
+2021	M
+,	CH
+Trường	N
+ĐH	Ny
+Giao thông	N
+vận tải	V
+sẽ	R
+tuyển	V
+5700	N
+chỉ tiêu	V
+cho	E
+27	N
+ngành	N
+học	V
+.	CH
+
+Thí sinh	N
+lưu ý	V
+,	CH
+năm	N
+nay	P
+,	CH
+trường	N
+có	V
+tuyển sinh	V
+thêm	R
+2	M
+ngành	N
+mới	R
+là	V
+Kỹ thuật	N
+Robot	Np
+và	C
+Trí tuệ	V
+nhân tạo	A
+;	CH
+Tài chính	N
+-	CH
+Ngân hàng	N
+.	CH
+
+Trường	N
+ĐH	Ny
+Giao thông	N
+Vận tải	N
+vẫn	R
+chủ yếu	A
+tuyển sinh	V
+bằng	E
+2	M
+phương thức	N
+là	V
+sử dụng	V
+kết quả	N
+kỳ	N
+thi	V
+tốt nghiệp	V
+THPT	Ny
+và	C
+sử dụng	V
+kết quả	N
+học tập	V
+THPT	Ny
+(	CH
+học bạ	M
+)	CH
+.	CH
+
+Phổ	M
+điểm	N
+khối	V
+B	Np
+sau	N
+2	M
+đợt	N
+thi	V
+tốt nghiệp	V
+năm	N
+2021	M
+
+Cậu	Nc
+bé	N
+sôi nổi	A
+nhiệt tình	A
+ấy	P
+không	R
+hiểu	V
+có	V
+chịu	V
+nổi	R
+những	L
+đòn	N
+tra tấn	V
+của	E
+quân thù	N
+hay	C
+không	R
+.	CH
+
+Tốt nghiệp	V
+Trường	N
+đại học	N
+Y khoa	N
+Hà Nội	Np
+năm	N
+1966	M
+,	CH
+Thuỳ	Np
+Trâm	Np
+xung phong	V
+vào	V
+công tác	V
+ở	E
+chiến trường	N
+.	CH
+
+Tuổi Trẻ	Np
+xin	V
+trân trọng	V
+giới thiệu	V
+một	M
+phần	N
+trong	E
+hai	M
+cuốn	Nc
+nhật ký	N
+ghi	V
+trong	E
+những	L
+ngày	N
+ở	E
+chiến trường	N
+của	E
+chị	Nc
+.	CH
+
+Buồn	A
+vì	E
+địa phương	N
+đã	R
+đưa	V
+tui	P
+lên	V
+cao	A
+quá	R
+làm chi	X
+để	E
+bây giờ	P
+tui	P
+muốn	V
+sống	V
+như	C
+một	M
+ngư dân	N
+bình thường	A
+cũng	R
+không	R
+được	V
+.	CH
+
+Ông	Nc
+này	P
+đã	R
+cử	V
+hai	M
+nhân viên	N
+xuống	V
+Mỹ Tho	Np
+mời	V
+cho	V
+được	V
+người	N
+phụ nữ	N
+đã	R
+từng	R
+cứu	V
+36	M
+người	N
+trong	E
+cơn	N
+bão	N
+số	N
+5	M
+ở	E
+biển	N
+Kiên Giang	Np
+về	R
+lái	V
+tàu	N
+du lịch	V
+Bonsai	Np
+1	M
+của	E
+ông	Nc
+kèm	V
+theo	V
+điều kiện	N
+sẽ	R
+tu sửa	V
+lại	V
+chiếc	Nc
+tàu	N
+TG	Ny
+2032TS	M
+nổi tiếng	A
+của	E
+chị	Nc
+thành	V
+tàu	N
+du lịch	V
+hoàn chỉnh	V
+.	CH
+
+Được	V
+làm việc	V
+đúng	A
+với	E
+sở trường	N
+của	E
+mình	P
+-	CH
+lái	V
+tàu	N
+-	CH
+chị	Nc
+Hồng	Np
+vui vẻ	A
+nhận lời	V
+.	CH
+
+Thế	P
+nhưng	C
+,	CH
+số phận	N
+hẩm hiu	A
+không	R
+buông tha	V
+chị	Nc
+.	CH
+
+Khi	N
+đi	V
+đăng ký	V
+thuyền viên	N
+tàu	N
+Bonsai	Np
+1	M
+,	CH
+Chi cục	Np
+Đường sông	Np
+phía	Np
+Nam	Np
+yêu cầu	V
+người	N
+lái	V
+tàu	N
+này	P
+phải	V
+có	V
+bằng	N
+thuyền trưởng	N
+đường sông	N
+hạng	N
+1	M
+.	CH
+
+Bằng	N
+thuyền trưởng	N
+đường biển	N
+hạng	N
+V	M
+và	C
+hạng	N
+IV	M
+của	E
+chị	Nc
+chẳng	R
+có	V
+giá trị	N
+gì	P
+khi	N
+đứng	V
+trong	E
+buồng lái	N
+con	Nc
+tàu	N
+du lịch	V
+này	P
+.	CH
+
+Chuyện	N
+bây giờ	P
+mới	R
+kể	V
+.	CH
+
+Trên	E
+những	L
+tán	N
+cây	N
+nở rộ	N
+những	L
+đóa	N
+hoa	N
+
+Có	V
+hai	M
+đứa	Nc
+nhóc	N
+đang	R
+chơi	V
+trốn	V
+tìm	V
+
+Tìm	V
+hoài	R
+tìm	V
+mãi	R
+nên	C
+quên	V
+lối	N
+về	E
+
+Anh	N
+đi	V
+tìm	V
+thì	C
+em	N
+trốn	V
+,	CH
+anh	Nc
+đi	V
+trốn	V
+em	N
+không	R
+tìm	V
+
+Lòng	N
+em	N
+không	R
+gợn sóng	V
+,	CH
+cuối cùng	A
+anh	Nc
+mất công	V
+chìm	V
+
+Thấy	V
+lắm	R
+lúc	N
+lòng	N
+mình	P
+nhẹ	A
+nhiều	A
+khi	N
+
+Muốn	V
+ném	V
+hết	V
+tất cả	P
+để	E
+mà	T
+đi	V
+
+Một	M
+lần	N
+mình	P
+sống	V
+như	C
+những	L
+đứa	Nc
+nhóc	N
+không	R
+nhà	N
+
+Sớm	R
+thức	V
+dậy	V
+ở	E
+một	M
+nơi	N
+xa	A
+.	CH
+
+Em	N
+không	R
+mơ	V
+những	L
+thứ	Nc
+cao xa	N
+rực	V
+hồng	A
+sắc_màu	N
+
+Tôi	P
+vẫn	R
+nhớ	V
+các	L
+ngày	N
+19	M
+,	CH
+20	M
+,	CH
+21/7	N
+bởi	E
+đây	P
+là	V
+những	L
+ngày	N
+quyết định	V
+.	CH
+
+Những	L
+ngày	N
+này	P
+,	CH
+cảm giác	N
+khó	A
+thở	V
+,	CH
+tức	C
+ngực	N
+bắt đầu	V
+xuất hiện	V
+.	CH
+
+Khi	N
+ngủ	V
+,	CH
+tôi	P
+liên tục	A
+bị	V
+giật mình	V
+thức giấc	V
+vì	E
+không	R
+thở	V
+được	R
+.	CH
+
+Mỗi	M
+khi	N
+hít	V
+thật	T
+sâu	A
+,	CH
+tôi	P
+lại	R
+có	V
+cảm giác	N
+đau	V
+tức	V
+ngực	N
+.	CH
+
+Tôi	P
+sợ	V
+lắm	R
+vì	E
+chỉ	R
+cần	V
+ngủ	V
+một chút	L
+là	C
+khó	A
+thở	V
+.	CH
+
+Một số	L
+chủ	N
+cửa hàng	N
+kinh doanh	V
+online	N
+phản ánh	V
+gặp	V
+tình trạng	N
+đơn	N
+hàng	N
+liên tục	A
+bị	V
+lưu	V
+kho	N
+hoặc	C
+giao	V
+lâu	A
+,	CH
+một số	L
+bị	V
+hoàn trả	V
+bất ngờ	A
+.	CH
+
+Tình trạng	N
+diễn	V
+ra	V
+tại	E
+nhiều	A
+đơn vị	N
+như	C
+Giao	Np
+Hàng	Np
+Tiết Kiệm	Np
+,	CH
+Giao	Np
+Hàng Nhanh	Np
+,	CH
+J&T Express	Np
+,	CH
+Nhất Tín Logistic	Np
+,	CH
+Viettel Post	Np
+...	CH
+
+Chị	Nc
+Huệ	Np
+,	CH
+một	M
+chủ	N
+shop	N
+bán	V
+hàng	N
+online	V
+cho	V
+biết	V
+,	CH
+chị	Nc
+bán	V
+2	M
+kg	Nu
+khô	A
+gà	N
+lá	N
+chanh	A
+,	CH
+giao	V
+từ	E
+Hoàng Mai	Np
+(	CH
+Hà Nội	Np
+)	CH
+đến	E
+Hà Nam	Np
+.	CH
+
+Chờ	V
+mãi	R
+đến	E
+ngày	N
+8/12	M
+,	CH
+chị	Nc
+Huệ	Np
+bất ngờ	A
+nhận	V
+được	R
+thông báo	V
+đơn	N
+hàng	N
+bị	V
+hoàn trả	V
+.	CH
+
+Hệ thống	N
+tự	P
+hoàn trả	V
+lại	V
+người	N
+bán	V
+và	C
+thu	V
+phí	N
+hoàn	V
+đơn	N
+hàng	N
+,	CH
+phí	N
+lưu	V
+kho	N
+với	E
+giá	N
+cao	A
+.	CH
+
+Kể	V
+từ	E
+đó	P
+Thạc	Np
+không	R
+nói	V
+thêm	V
+được	R
+câu	N
+nào	P
+nữa	R
+.	CH
+
+Anh	N
+đã	R
+tắt thở	V
+trong	E
+vòng tay	N
+của	E
+đồng đội	N
+.	CH
+
+Như	C
+nhiều	A
+người	Nc
+lính	N
+hi sinh	V
+ngoài	E
+chiến trường	N
+,	CH
+thi hài	N
+của	E
+anh	Nc
+được	V
+bọc	V
+trong	E
+một	M
+tấm	Nc
+tăng	N
+nilông	N
+và	C
+chôn cất	V
+ngay	R
+tại	E
+mặt trận	N
+.	CH
+
+Đây	P
+là	V
+một	M
+trong	E
+số	N
+hơn	A
+50	M
+gia đình	N
+ở	E
+La Chữ	Np
+năm	N
+nay	P
+có	V
+con	N
+thi	V
+vào	V
+đại học	N
+.	CH
+
+Và	C
+họ	P
+đều	R
+rộng	A
+lòng	N
+với	E
+tất cả	P
+TS	Ny
+,	CH
+người nhà	N
+.	CH
+
+Trông	V
+chị	Nc
+Mai	Np
+gầy guộc	A
+,	CH
+mặt	N
+hốc hác	A
+,	CH
+hai	M
+hốc	N
+mắt	N
+sâu	A
+trũng	A
+và	C
+còn	R
+hằn	V
+vết	N
+thâm	A
+.	CH
+
+Chị	Nc
+bảo	V
+mấy	L
+tháng	N
+liền	A
+không	R
+ngủ	V
+được	R
+,	CH
+mất	V
+gần	A
+5	M
+kg	Nu
+vì	E
+phải	V
+thức	V
+đêm	N
+trông	V
+ông	Nc
+chủ	N
+nhà	N
+70	M
+tuổi	N
+bị	V
+liệt	V
+nửa	L
+người	N
+.	CH
+
+Không	R
+phải	A
+ai	P
+đi	V
+lao động	V
+cũng	R
+may mắn	A
+như	C
+chị	Nc
+Ngân	Np
+,	CH
+chị	Nc
+Mai	Np
+.	CH
+
+Hàng	N
+chè_chén	N
+cũng	R
+có thể	A
+đi	V
+rong	V
+.	CH
+
+Một	M
+tay	N
+xách	V
+giỏ	N
+ủ	V
+đựng	V
+ấm	N
+chè	N
+pha	V
+sẵn	A
+,	CH
+một	M
+tay	N
+cắp	V
+tráp	N
+nhỏ	A
+đựng	V
+thuốc lá	N
+đi	V
+lông nhông	A
+.	CH
+
+Anh	N
+đưa	V
+em	N
+về	V
+,	CH
+cả	P
+nhà	N
+mừng	V
+sinh_nhật	N
+em	N
+.	CH
+
+Hai	M
+bàn_tay	N
+khó_nhọc	A
+cầm	V
+cán	N
+cuốc	N
+phát	V
+những	L
+bụi	N
+cỏ	N
+mọc	V
+dày	A
+ken	A
+,	CH
+cao	A
+quá	R
+cả	R
+đầu	N
+người	N
+.	CH
+
+Hai	N
+đứa	Nc
+nhỏ	A
+đột_nhiên	R
+thức_giấc	V
+,	CH
+ngáp	V
+dài	A
+rồi	R
+nhìn	V
+hắn	P
+,	CH
+như	C
+vừa	R
+quen_quen	A
+,	CH
+vừa	R
+là_lạ 	A
+.	CH
+
+Chúng	P
+lò_dò	V
+bước	V
+xuống	E
+võng	N
+nửa	M
+như	C
+vui_mừng	V
+,	CH
+nửa	M
+như	C
+dò_xét	V
+hắn	P
+.	CH
+
+Nhà_vua	N
+có	V 
+ba	M 
+nàng	Nc 
+công_chúa	N		 
+nhất_mực	R
+xinh_đẹp	A
+.	CH
+
+Ba	M
+nàng	Nc
+công_chúa	N
+ngay	T 
+từ	E	 
+khi	N	 
+sinh	V 
+ra	R	 
+đã	R 
+có	V 
+một	M 
+loại	N 
+sức_mạnh	N 
+thần_kỳ	A
+.	CH
+
+Đó	N
+là	V
+khi	N	 
+họ	N
+khóc	V
+,	CH
+nước_mắt	N 
+rơi	V 
+xuống	E 
+sẽ	R 
+hóa	V
+thành	R
+những	L
+viên	Nc
+kim_cương	N
+óng_ánh	A	
+.	CH
+
+Một	L	 
+hôm	N
+,	CH
+nhà_vua	N 
+phát_hiện	V 
+thấy	V	 
+rằng	C 
+tuổi	Nu	 
+mình	P 
+đã	R 
+cao	A
+,	CH
+sức_khỏe	N
+đã	R 
+yếu	A 
+mà	C	 
+vẫn	R 
+chưa	R
+có	V
+người	N 
+nào	T	
+để	Cc
+truyền	V
+ngôi_vị	N
+.	CH
+
+Mùa	N 
+xuân	N 
+,	CH
+những	L
+chú	Nc
+chim	N
+én	N
+bé_nhỏ	A
+liệng	V
+qua	E
+liệng	V
+lại	E
+trên	E
+bầu_trời	N
+
+Pha	N
+lập_công	V
+trên	E
+đã	R
+giúp	V
+Rashford	Np
+giải_hạn	V
+bàn	N
+thắng	V
+tại	E
+sân	N
+Old_Trafford	Np
+kéo_dài	V
+845	M
+phút	N
+.	CH
