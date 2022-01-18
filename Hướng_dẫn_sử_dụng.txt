@@ -1,0 +1,8 @@
+link github: https://github.com/vncorenlp/VnCoreNLP
+Bước 1 (optional): Nếu chưa cài Java (JDK), vào link https://www.oracle.com/java/technologies/downloads/
+cài đặt, sau đó add java vào global environment variable.
+Bước 2: sử dụng cmd và nhập lệnh pip install vncorenlp để cài đặt python wrapper cho thư viện.
+Bước 3: sử dụng cmd và cd vào thư mục chứa Core của VnCoreNLP
+dùng dòng lệnh sau: java -Xmx2g -jar VnCoreNLPServer.jar VnCoreNLP-1.1.jar -p 8000 -a "wseg,pos,parse"
+nếu cổng 8000 không được thì sử dụng các cổng khác(từ 8000 về sau)
+Bước 4: sử dụng theo hướng dẫn của nhà phát triển (link github bên trên)
